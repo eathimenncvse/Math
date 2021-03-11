@@ -64,7 +64,8 @@ The result of this program:
 ## Further details of this algorithm
 
 For more details you can read this article
-![]()
+[](https://github.com/eathimenncvse/SageMath/blob/main/Resources/Pollard%20p%20-1%20and%20lenstra.pdf)
+
 
 
 
