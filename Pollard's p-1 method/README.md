@@ -57,6 +57,16 @@ This is a large integer,and it's hard to factorize it with usual factorization m
 
 for example quadratic sieve,but this algorithm can factorize it very fast.
 
+The result of this program:
+
+![](https://github.com/eathimenncvse/SageMath/blob/main/pictures_of_README/6.png)
+
+## Further details of this algorithm
+
+For more details you can read this article
+![]()
+
+
 
 
 
