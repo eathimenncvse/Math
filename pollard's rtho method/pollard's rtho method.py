@@ -91,5 +91,7 @@ if __name__ == "__main__":
         print(n,"=",result," * ",q);
     else:
         print("Something wrong...,the input number should be in the form of p * q")
+    
+    input("Press ENTER to exit:");
 
 
