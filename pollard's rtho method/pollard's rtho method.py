@@ -84,11 +84,11 @@ if __name__ == "__main__":
     n = int(input("The integer is:"));
     result = pollard_rtho(n);
     q = n // result;
-    print("The result is:",result);
+    print(f"The result is:{result}");
     if result == 1:
         print("Factorization failed");
     elif isPrime(result) and isPrime(q):
-        print(n,"=",result," * ",q);
+        print(f'{n} = {result} * {q}');
     else:
         print("Something wrong...,the input number should be in the form of p * q")
     
